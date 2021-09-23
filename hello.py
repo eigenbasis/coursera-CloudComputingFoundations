@@ -9,6 +9,4 @@ def add(x, y):
 def subtract(x, y):
     return x - y
 
-var=
-
 toyou(5, 3)
