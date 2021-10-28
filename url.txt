@@ -1,3 +1,3 @@
 this is the url that I can check my flask with
 
-https://d874c0ed391642f4a3414ea70447e3b0.vfs.cloud9.us-east-2.amazonaws.com/
+https://d874c0ed391642f4a3414ea70447e3b0.vfs.cloud9.us-east-2.amazonaws.com
